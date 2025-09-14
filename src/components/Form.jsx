@@ -3,7 +3,7 @@ import { Box, InputBase, Button, styled } from "@mui/material";
 import { getWeather } from "../services/api";
 
 const Container = styled(Box)({
-  background: "#445A6F",
+  background: "#555",
   display: "flex",
   padding: 10,
   borderRadius: 8,
